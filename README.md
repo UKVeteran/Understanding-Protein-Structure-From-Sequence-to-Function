@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🧬 Macromolecular Architecture: The In-Depth Guide to Protein Structure</h1>
-  <p><b>An exhaustive, rigorous reference manual covering the biophysical, thermodynamic, and structural principles of proteins—from single codons to multi-subunit molecular machines.</b></p>
+  <p><b>An exhaustive, rigorous reference manual covering the biophysical, thermodynamic, and structural principles of proteins from single codons to multi-subunit molecular machines.</b></p>
 </div>
 
 <hr />
