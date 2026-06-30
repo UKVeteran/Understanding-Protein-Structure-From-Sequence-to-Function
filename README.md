@@ -31,20 +31,17 @@ Every amino acid shares a central, tetrahedral chiral carbon atom known as the *
 4. A variable **side chain (R-group)** which dictates the chemical character of the residue.
 
 
-```
-
-```
    H      O
    |     //
 
-```
+
 
 H3N⁺-C_α - C
 |     
 
 R      O⁻
 
-```
+
 
 ### 💧 The 20 Side-Chain Classifications
 The physical, chemical, and topological behavior of a folded protein is governed entirely by the collective properties of its side chains. These are categorized into four principal groups:
