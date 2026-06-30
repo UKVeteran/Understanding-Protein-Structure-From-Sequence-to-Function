@@ -244,16 +244,6 @@ Ultimately, the native fold of a protein is only marginally stable, with $\Delta
 If a 100-residue protein attempted to find its native conformation by sampling every possible combination of $\phi$ and $\psi$ angles sequentially, it would need to test roughly $3^{200} \approx 10^{95}$ distinct configurations. Even if each configuration took only a picosecond ($10^{-12}\text{ s}$) to sample, finding the correct shape would take longer than the age of the universe. This is **Levinthal's Paradox**.
 
 
-```
-
-[ Random Coil / High Entropy ]   \        /
-\      /  <-- Energy Landscape
-\    /      (Folding Funnel)
-\  /
-/  [ Native State / Low Energy ]
-
-```
-
 Proteins resolve this paradox by folding along a directed **Energy Funnel Landscape**:
 1.  **Local Collapse:** Nearby regions of the primary chain rapidly form secondary structures ($\alpha$-helices and $\beta$-sheets).
 2.  **Molten Globule Transition:** The hydrophobic effect drives a rapid collapse of non-polar side chains into a compact intermediate shape known as a *molten globule*.
