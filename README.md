@@ -157,17 +157,6 @@ Tertiary structure refers to the complete, three-dimensional spatial orientation
 
 The native conformation of a tertiary fold is stabilized by several distinct chemical interactions between side chains (R-groups):
 
-
-```
-
-```
-   [Ionic Salt Bridge]       [Disulfide Link]      [Hydrophobic Core]
-      Lys⁺ --- Asp⁻            Cys-S --- S-Cys         Leu ==== Val
-
-```
-
-```
-
 1.  **The Hydrophobic Effect:** The primary driving force behind globular protein folding. Non-polar side chains disrupt the ambient network of water molecules, forcing surrounding water into an energetically costly, highly ordered "clathrate-like" cage structure. Fusing non-polar side chains together into an enclosed inner core releases these water molecules back into bulk solution, maximizing the **entropy of the solvent ($\Delta S_{\text{solvent}} > 0$)**.
 2.  **Electrostatic Interactions (Salt Bridges):** Strong Coulombic attractions that develop between full, opposite charges on ionized side chains at physiological pH—such as the basic $\epsilon$-amino group of Lysine and the acidic $\beta$-carboxylate group of Aspartate.
 3.  **Hydrogen Bonding:** Formed between polar side chains (e.g., the hydroxyl group of Tyrosine and the imidazole nitrogen of Histidine).
