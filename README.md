@@ -61,21 +61,6 @@ While the peptide bond itself is rigid, the structural backbone retains flexibil
 * **$\phi$ (phi):** The angle of rotation around the $N-C_\alpha$ bond.
 * **$\psi$ (psi):** The angle of rotation around the $C_\alpha-C$ bond.
 
-
-```
-
-```
-[ Peptide Bond (Rigid) ]      [ Peptide Bond (Rigid) ]
-
-```
-
-... --- C(=O) --- N --- C_α --- C(=O) --- N --- C_α --- ...
-/   
-
-Φ(phi) Ψ(psi)
-
-```
-
 > **The Ramachandran Plot:** Not all combinations of $\phi$ and $\psi$ are sterically permitted. The biophysicist G.N. Ramachandran modeled steric clashes using van der Waals radii, demonstrating that steric hindrances restrict $\phi$ and $\psi$ values to specific, allowable coordinates. These coordinates correspond precisely to the standard types of secondary structure ($\alpha$-helices and $\beta$-sheets).
 
 ---
