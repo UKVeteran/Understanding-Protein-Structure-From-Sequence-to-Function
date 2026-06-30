@@ -303,8 +303,4 @@ To map out these four levels of structural hierarchy, structural biologists rely
 | **Involvement of Side Chains (R-groups)** | Side chains determine the sequence sequence but do not alter the covalent link. | Side chains do not participate in backbone hydrogen bonding, but their bulk can stabilize or disrupt the structure. | **Primary drivers** of folding via hydrophobic collapse and side-chain interactions. | Side-chain interactions govern binding across subunit interfaces. |
 | **Disruption Sensitivity** | Resistant to standard denaturants; requires strong acid, base, or specific proteases to hydrolyze. | Sensitive to thermal disruption and changes in hydrogen-bonding solvents (e.g., urea). | Highly sensitive to temperature, pH shifts, heavy metals, and reducing agents. | Easily disrupted by mild detergents, high salt conditions, or temperature shifts that break down non-covalent interfaces. |
 
----
 
-<div align="center">
-  <sub>Developed for biochemistry students and structural biology developers. Open-source under the MIT License. Feel free to fork and extend!</sub>
-</div>
